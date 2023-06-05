@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(255, 99, 71, 0.2);
+    background-image: url("Neuralnet.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#logo {
+    width: 250px;
+    height: 120px;
+    alt: logo;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(133, 149, 170, 0.50);
+    border-radius: 10px 50px;
+    padding: 0px 0px -2px 0px;
+}
+
+#horizontal-line {
+    text-align: center;
+    width: 60%;
+    color:white;
+    border: white 1px solid;
+    opacity: 0.9;
+}
+
+.nav-buttons {
+    display: inline-block;
+    padding: 5px 12px 5px 12px;
+    text-align: center;
+    background-color: rgba(13, 187, 226, 0.60);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.nav-bar{
+    text-align: center;
+}
+
+.inner-box {
+    color: white;
+    text-decoration: none;
+}
